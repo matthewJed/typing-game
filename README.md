@@ -17,6 +17,7 @@ cd app
 npm install
 ```
 4. Run the application
+
 This command runs the app in development mode. Open http://localhost:3000 to view it in your browser. The page will automatically reload if you make any changes to the code.
 ```bash
 npm start
