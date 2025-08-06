@@ -8,15 +8,15 @@ This guide will help you get the project up and running on your local machine qu
 ```bash
 git clone https://github.com/your-username/your-project-name.git
 ```
-2.Navigate to the project directory
+2. Navigate to the project directory
 ```bash
 cd app
 ```
-3.Install dependecies
+3. Install dependecies
 ```bash
 npm install
 ```
-4.Run the application
+4. Run the application
 This command runs the app in development mode. Open http://localhost:3000 to view it in your browser. The page will automatically reload if you make any changes to the code.
 ```bash
 npm start
